@@ -1,7 +1,7 @@
 <?php
 return [
   'host' => 'localhost',
-  'db' => 'instituto',
+  'db' => 'mvc_pdo',
   'user' => 'root',
   'pass' => '',
   'charset' => 'utf8mb4',
