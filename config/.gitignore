@@ -1,0 +1,13 @@
+# Archivos de configuración
+config/config.php
+.env
+
+# Node.js
+node_modules/
+
+# Archivos temporales del sistema
+*.log
+.DS_Store
+
+# Carpeta de compilación
+dist/
