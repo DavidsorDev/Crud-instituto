@@ -1,5 +1,5 @@
 # Archivos de configuración
-config/config.php
+config/
 .env
 
 # Node.js
